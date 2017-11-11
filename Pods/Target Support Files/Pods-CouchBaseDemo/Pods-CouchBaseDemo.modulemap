@@ -1,0 +1,6 @@
+framework module Pods_CouchBaseDemo {
+  umbrella header "Pods-CouchBaseDemo-umbrella.h"
+
+  export *
+  module * { export * }
+}
