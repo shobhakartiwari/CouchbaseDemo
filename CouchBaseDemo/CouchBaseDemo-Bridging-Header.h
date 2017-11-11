@@ -10,5 +10,5 @@
 #define CouchBaseDemo_Bridging_Header_h
 
 #endif /* CouchBaseDemo_Bridging_Header_h */
-#import "CouchbaseLite/CouchbaseLite.h"
+#import <CouchbaseLite/CouchbaseLite.h>
 
