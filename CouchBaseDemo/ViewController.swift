@@ -19,6 +19,8 @@ class ViewController: UIViewController {
         // Create a manager
         let manager = CBLManager.sharedInstance()
         
+        
+        
         let database: CBLDatabase
         do {
             // Create or open the database named app
